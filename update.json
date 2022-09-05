@@ -1,6 +1,6 @@
 {
-    "latestVersion": "3.0.11-Beta",
-    "latestVersionCode": "30011",
+    "latestVersion": "3.0.10",
+    "latestVersionCode": "30010",
     "url": "https://github.com/LeeXDA21/UnboundControl_Releases/releases",
     "releaseNotes": [
       "- Fixed missing resources",

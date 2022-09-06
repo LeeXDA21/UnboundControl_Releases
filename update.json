@@ -1,9 +1,8 @@
 {
-    "latestVersion": "3.0.09",
-    "latestVersionCode": "30009",
+    "latestVersion": "3.0.11",
+    "latestVersionCode": "30011",
     "url": "https://github.com/LeeXDA21/UnboundControl_Releases/releases",
     "releaseNotes": [
-      "- Fixed missing resources",
-      "- Misc code improvements"
+      "- Implemented app updater"
     ]
   }

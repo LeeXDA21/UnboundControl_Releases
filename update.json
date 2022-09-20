@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.0.181",
-    "latestVersionCode": "300181",
+    "latestVersion": "3.0.182",
+    "latestVersionCode": "300182",
     "url": "https://github.com/LeeXDA21/UnboundControl_Releases/releases",
     "releaseNotes": [
-      "- Migrate to Kotlin"
+      "- Test"
     ]
   }

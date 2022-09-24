@@ -1,8 +1,8 @@
 {
-    "latestVersion": "3.0.185",
-    "latestVersionCode": "300185",
+    "latestVersion": "3.0.186",
+    "latestVersionCode": "300186",
     "url": "https://github.com/LeeXDA21/UnboundControl_Releases/releases",
     "releaseNotes": [
-      "- Re-Add NavBar mods"
+      "- Add new custom preferences"
     ]
   }
